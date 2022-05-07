@@ -1,4 +1,4 @@
-## A new, unique way to play chess.
+## The world's first client for Lichess
 
 Lichess+ Client can offer you many new features that are exclusive to us.
 
