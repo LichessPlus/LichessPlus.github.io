@@ -1,3 +1,1 @@
-## Perks
-
-Small features, big difference.
+## Carefully selected, minimalist tweaks that make a big difference.
