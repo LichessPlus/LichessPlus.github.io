@@ -1,6 +1,7 @@
 ## The world's first client for Lichess
 
-##DOWNLOAD HERE
+## DOWNLOAD HERE
+
 Lichess+ Client can offer you many new features that are exclusive to us such as Sound Protection, ClearLag and many more.
 
 - Sound Protection. Makes move sounds more fluent.
