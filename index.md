@@ -5,8 +5,8 @@ Lichess is a brilliant site but it can use some improvements, like dark board co
 ### DOWNLOAD HERE
 Lichess Plus is compatible with Windows and Mac. Not tested on Linux. Lichess Plus take no responsibility for your Linux blowing up.
 
-### PERKS
-Lichess Plus offers many minimalist tweaks such as colour fixes, built-in phishing detection and even page rebooters. Read some more here.
+### [PERKS](http://gg.gg/lichessplusperks)
+Lichess Plus offers many minimalist tweaks such as colour fixes, built-in phishing detection and even page rebooters. Read some more [here](http://gg.gg/lichessplusperks).
 
 
 
