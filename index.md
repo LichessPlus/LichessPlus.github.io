@@ -8,6 +8,6 @@ Lichess Plus is compatible with Windows and Mac. Not tested on Linux. Lichess Pl
 ### [PERKS](http://gg.gg/lichessplusperks)
 Lichess Plus offers many minimalist tweaks such as colour fixes, built-in phishing detection and even page rebooters. Read some more [here](http://gg.gg/lichessplusperks).
 
-
+<a class="github-button" href="https://github.com/LichessPlus" data-color-scheme="no-preference: light; light: light; dark: light;" data-size="large" aria-label="Follow @LichessPlus on GitHub">Follow @LichessPlus</a>
 
 <script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>
