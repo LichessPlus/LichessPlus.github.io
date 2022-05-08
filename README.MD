@@ -1,4 +1,4 @@
-# LichessPlus.github.io
+# LichessPlus
 
 ## The world's first client for Lichess
 
