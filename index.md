@@ -2,7 +2,7 @@
 
 Lichess is a brilliant site but it can use some improvements, like dark board colour hue fixes and auto-page refresh. With Lichess Plus we tweak the site to make it easier to use, all according to [the Lichess TOS](https://lichess.org/terms-of-service) as of 28 April 2022. It is also built off WebCatalog, so custom account switching features are also included. You can also link your accounts from other apps!
 
-### DOWNLOAD HERE
+### DOWNLOAD [HERE](http://gg.gg/downloadlichessplus)
 Lichess Plus is compatible with Windows and Mac. Not tested on Linux. Lichess Plus take no responsibility for your Linux blowing up.
 
 ### [PERKS](http://gg.gg/lichessplusperks)
